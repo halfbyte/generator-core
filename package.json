@@ -2,7 +2,7 @@
   "name": "generator-core",
   "version": "3.1.0-dev",
   "description": "Adobe Photoshop Generator Core",
-  "main": "app.js",
+  "main": "lib/generator.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/adobe-photoshop/generator-core.git"
