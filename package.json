@@ -5,7 +5,7 @@
   "main": "lib/generator.js",
   "bin": {
     "generator": "./app.js"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/adobe-photoshop/generator-core.git"
